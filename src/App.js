@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h2>App under construction</h2>
+      <h1>Still Under Construction but showing now!</h1>
     </div>
   );
 }
